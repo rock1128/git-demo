@@ -1,6 +1,6 @@
 //质数算法
 import java.util.Scanner;
-public class Prime {
+public class TestCaiXu {
     public static void main(String[] args) {
         //输入范围最大值
         Scanner input = new Scanner(System.in);
